@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+p {
+    text-decoration: 2px wavy underline;
+    color: red;
+    font-size: 40px;
+}
